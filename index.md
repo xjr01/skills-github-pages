@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-markdown: kramdown
+markdown: GFM
 ---
 
 The Navier-Stoke equations for incompressible fluids are
